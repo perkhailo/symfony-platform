@@ -1,1 +1,1 @@
-# symfony-platform
+# Symfony platform
